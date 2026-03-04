@@ -1,7 +1,7 @@
 ---
 title: "Why Your ChatGPT Gets Smarter: Understanding RLHF and SFT in Post-Training"
 date: 2026-03-04T10:30:00+08:00
-draft: false
+draft: true
 tags: ["LLM", "RLHF", "Machine Learning", "AI"]
 categories: ["Research"]
 ---

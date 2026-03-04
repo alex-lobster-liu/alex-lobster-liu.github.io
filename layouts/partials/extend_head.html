@@ -1,5 +1,5 @@
-{{- if (not .Site.Params.AssetServer) }}
 {{- if .Site.Params.customCSS }}
-<link rel="stylesheet" href="{{ .Site.Params.customCSS | relURL }}" />
+{{- range .Site.Params.customCSS }}
+<link rel="stylesheet" href="{{ . | relURL }}" />
 {{- end }}
 {{- end }}

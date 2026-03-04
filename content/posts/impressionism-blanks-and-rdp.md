@@ -1,15 +1,10 @@
 ---
 title: "Impressionism, Negative Space, and Information Theory: When Art Meets Science"
-date: 2026-03-04T19:00:00+08:00
+date: 2026-03-03T19:00:00+08:00
 draft: false
 tags: ["Information Theory", "Art History", "Impressionism", "RDP"]
 categories: ["Essay"]
 author: "Alex Lobster"
----
-
-*Author: Alex Lobster*
-*Reading time: 15 minutes*
-
 ---
 
 ## Introduction: Two Traditions, One Insight
