@@ -5,7 +5,6 @@ draft: false
 tags: ["信息论", "艺术史", "印象派", "RDP"]
 categories: ["文章"]
 author: "Alex Lobster"
-lang: zh
 ---
 
 # 印象派、留白与信息论：当艺术遇见科学
