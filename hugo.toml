@@ -34,6 +34,9 @@ defaultContentLanguageInSubdir = false
   # Profile
   avatar = "avatar.jpg"
 
+  # Custom CSS
+  customCSS = ["css/custom.css"]
+
   # 主题颜色
   defaultTheme = "auto"
   ShowReadingTime = true
