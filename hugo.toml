@@ -3,6 +3,25 @@ languageCode = 'en-us'
 title = 'Alex Lobster'
 theme = 'PaperMod'
 
+# 多语言配置
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Alex Lobster"
+    weight = 1
+    [languages.en.params]
+      description = "Research notes on AI, Machine Learning, and Statistics"
+
+  [languages.zh]
+    languageName = "中文"
+    title = "Alex Lobster (牛雪岩)"
+    weight = 2
+    [languages.zh.params]
+      description = "关于人工智能、机器学习和统计学的研究笔记"
+
 # 参数配置
 [params]
   author = "Alex Lobster"
@@ -24,22 +43,40 @@ theme = 'PaperMod'
     url = "mailto:alex_lobster@hotmail.com"
 
 # 菜单配置
-[[menu.main]]
+[[languages.en.menu.main]]
   identifier = "home"
   name = "Home"
   url = "/"
   weight = 1
 
-[[menu.main]]
+[[languages.en.menu.main]]
   identifier = "posts"
   name = "Posts"
   url = "/posts/"
   weight = 2
 
-[[menu.main]]
+[[languages.en.menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
+  weight = 3
+
+[[languages.zh.menu.main]]
+  identifier = "home"
+  name = "首页"
+  url = "/zh/"
+  weight = 1
+
+[[languages.zh.menu.main]]
+  identifier = "posts"
+  name = "文章"
+  url = "/zh/posts/"
+  weight = 2
+
+[[languages.zh.menu.main]]
+  identifier = "about"
+  name = "关于"
+  url = "/zh/about/"
   weight = 3
 
 # 税务配置
