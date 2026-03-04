@@ -1,3 +1,13 @@
+---
+title: "印象派、留白与信息论：当艺术遇见科学"
+date: 2026-03-04T19:00:00+08:00
+draft: false
+tags: ["信息论", "艺术史", "印象派", "RDP"]
+categories: ["文章"]
+author: "Alex Lobster"
+lang: zh
+---
+
 # 印象派、留白与信息论：当艺术遇见科学
 
 *作者：Alex Lobster*  
