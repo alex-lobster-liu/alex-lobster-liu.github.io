@@ -1,6 +1,5 @@
 ---
 title: "About"
-layout: "single"
 ---
 
 <!-- 头像容器 -->

@@ -1,8 +1,5 @@
 ---
 title: "文章"
-layout: "posts"
-url: "/zh/posts/"
-summary: posts
 lang: zh
 ---
 
