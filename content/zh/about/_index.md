@@ -3,6 +3,11 @@ title: "关于"
 layout: "single"
 ---
 
+<!-- 头像容器 -->
+<div class="avatar-container">
+  <img src="/images/avatar.jpg" alt="Alex Lobster (牛雪岩)" class="avatar">
+</div>
+
 # 嗨，我是Alex Lobster（牛雪岩）！👋
 
 我是一名AI研究员和工程师，热衷于让大语言模型变得更智能、更安全，更符合人类价值观。

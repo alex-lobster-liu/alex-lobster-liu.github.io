@@ -1,0 +1,263 @@
+/* 自定义样式 - GitLab学术风格配色 */
+
+/* 根变量 - GitLab风格 */
+:root {
+  /* GitLab品牌色 */
+  --gitlab-orange: #fc6d26;      /* GitLab橙色 */
+  --gitlab-dark: #333238;         /* GitLab深色 */
+  --gitlab-gray: #737278;         /* GitLab灰色 */
+
+  /* 主色调 */
+  --primary-color: #e24329;       /* GitLab红橙色 */
+  --accent-color: #fc6d26;        /* 橙色强调 */
+  --text-color: #333238;          /* 深色文本 */
+  --bg-color: #ffffff;            /* 白色背景 */
+  --code-bg: #f2f2f2;            /* 代码块浅灰背景 */
+  --border-color: #dbdbdb;       /* 边框颜色 */
+
+  /* 学术色调 */
+  --success-color: #108548;       /* 绿色 - 成功 */
+  --info-color: #1f78d1;          /* 蓝色 - 信息 */
+  --warning-color: #c97e04;       /* 黄色 - 警告 */
+}
+
+/* 链接颜色 */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+/* 顶部导航栏 */
+.navbar {
+  background-color: var(--gitlab-dark) !important;
+  border-bottom: 2px solid var(--primary-color);
+}
+
+/* Logo和标题 */
+.logo {
+  color: var(--primary-color) !important;
+  font-weight: bold;
+}
+
+/* 按钮样式 */
+.button {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: white !important;
+  transition: all 0.2s ease;
+}
+
+.button:hover {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(252, 109, 38, 0.3);
+}
+
+/* 文章标题 */
+.post-title {
+  color: var(--text-color);
+  border-bottom: 3px solid var(--primary-color);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* 标签样式 */
+.tags {
+  color: var(--accent-color);
+}
+
+.tag {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border-color);
+  padding: 0.2rem 0.6rem;
+  border-radius: 15px;
+  font-size: 0.85rem;
+  transition: all 0.2s ease;
+}
+
+.tag:hover {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+/* 代码块 */
+code {
+  background-color: var(--code-bg);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-family: 'Monaco', 'Menlo', monospace;
+  font-size: 0.9em;
+  color: var(--primary-color);
+}
+
+pre {
+  background-color: var(--gitlab-dark);
+  color: #ffffff;
+  border: 1px solid var(--border-color);
+  border-radius: 5px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+pre code {
+  background-color: transparent;
+  color: inherit;
+  padding: 0;
+}
+
+/* 表格样式 */
+table {
+  border-color: var(--border-color);
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+table th {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+table tr:hover {
+  background-color: var(--code-bg);
+}
+
+/* 引用块 */
+blockquote {
+  border-left: 4px solid var(--primary-color);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  color: var(--gitlab-gray);
+  font-style: italic;
+}
+
+/* Footer */
+footer {
+  border-top: 2px solid var(--border-color);
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  text-align: center;
+  color: var(--gitlab-gray);
+}
+
+/* 搜索框 */
+.searchbox {
+  border-color: var(--border-color);
+}
+
+.searchbox:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(226, 67, 41, 0.1);
+}
+
+/* 分页按钮 */
+.pagination {
+  margin-top: 2rem;
+}
+
+.pagination a {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  margin: 0 0.25rem;
+}
+
+.pagination a:hover {
+  background-color: var(--accent-color);
+}
+
+/* 面包屑导航 */
+.breadcrumb {
+  color: var(--gitlab-gray);
+  font-size: 0.9rem;
+}
+
+/* 社交图标 */
+.social-icons a {
+  color: var(--gitlab-gray);
+  font-size: 1.5rem;
+  margin: 0 0.5rem;
+  transition: color 0.2s ease;
+}
+
+.social-icons a:hover {
+  color: var(--primary-color);
+}
+
+/* 深色模式适配 */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #fc6d26;
+    --accent-color: #e24329;
+    --text-color: #e6e6e6;
+    --bg-color: #1f1f1f;
+    --code-bg: #2a2a2a;
+    --border-color: #404040;
+  }
+
+  .navbar {
+    background-color: #0a0a0a !important;
+  }
+
+  table th {
+    background-color: var(--primary-color);
+  }
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0.5rem 1rem;
+  }
+
+  .post-title {
+    font-size: 1.5rem;
+  }
+}
+
+/* 加载动画 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.content {
+  animation: fadeIn 0.3s ease-in;
+}
+
+/* 强调文本 */
+strong {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* 高亮文本 */
+mark {
+  background-color: rgba(252, 109, 38, 0.2);
+  color: inherit;
+  padding: 0.1rem 0.2rem;
+  border-radius: 2px;
+}

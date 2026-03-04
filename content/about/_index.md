@@ -3,6 +3,11 @@ title: "About"
 layout: "single"
 ---
 
+<!-- 头像容器 -->
+<div class="avatar-container">
+  <img src="/images/avatar.jpg" alt="Alex Lobster" class="avatar">
+</div>
+
 # Hi, I'm Alex Lobster! 👋
 
 I'm an AI researcher and engineer passionate about making large language models smarter, safer, and more aligned with human values.
@@ -53,4 +58,5 @@ My goal is to bridge that gap.
 
 Thanks for stopping by! Feel free to reach out if you want to chat about AI, ML, or anything else.
 
-— **Alex** 🦞
+— **Alex Lobster**
+*AI Researcher & Engineer*
