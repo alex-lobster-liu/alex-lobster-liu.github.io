@@ -250,4 +250,8 @@ Perhaps this is the shared aim of art and science: **to capture the essence with
 
 In an age of information abundance, the RDP framework reminds us of something painters have long understood: what matters is not how much we say, but what is perceived.
 
+Whether appreciating a painting or designing a communication system, this wisdom is worth remembering.
+
 ---
+
+*Reading time: 15 minutes | Difficulty: ★★☆☆☆ | Category: Information Theory × Art History*
