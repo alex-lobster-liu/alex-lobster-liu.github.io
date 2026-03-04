@@ -21,7 +21,7 @@ author: "Alex Lobster"
 
 在世界的另一端，几个世纪之前，中国画家发展出了一种不同的方法。沈周的《庐山高图》留下了大片空白。这些空白不是未完成——它们是云雾，是天空，是山的高远。观者的心绪会自动补足笔触未及之处。
 
-![Shen Zhou - Lu Shan Mountain (Ming Dynasty)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Shen_Zhou_-_Lu_Shan_Gao_Tu_-_Google_Art_Project.jpg/800px-Shen_Zhou_-_Lu_Shan_Gao_Tu_-_Google_Art_Project.jpg）
+![Shen Zhou - Lu Shan Mountain (Ming Dynasty)](https://upload.wikimedia.org/wikipedia/commons/9/9e/Shen_Zhou_-_Lu_Shan_Gao_Tu_-_Google_Art_Project.jpg）
 
 *沈周《庐山高图》（明代）*
 
@@ -59,7 +59,7 @@ author: "Alex Lobster"
 2. **可见的笔触** — 远看连贯，近看抽象
 3. **氛围重于细节** — 捕捉瞬间，而非清单
 
-![Claude Monet - Rouen Cathedral (1890s)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Claude_Monet_-_Rouen_Cathedral_%28Sunset%29.jpg/600px-Claude_Monet_-_Rouen_Cathedral_%28Sunset%29.jpg)
+![Claude Monet - Rouen Cathedral (1890s)](https://upload.wikimedia.org/wikipedia/commons/5/5e/Claude_Monet_-_Rouen_Cathedral_%28Sunset%29.jpg)
 
 *莫奈《鲁昂大教堂》系列——捕捉不同时间的光线*
 
@@ -91,7 +91,7 @@ author: "Alex Lobster"
 
 齐白石画虾，从不画水。白纸通过语境和暗示变成了水。
 
-![Qi Baishi - Shrimp (1953)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Qi_Baishi_-_Shrimp_%281953%29.jpg/600px-Qi_Baishi_-_Shrimp_%281953%29.jpg)
+![Qi Baishi - Shrimp (1953)](https://upload.wikimedia.org/wikipedia/commons/5/5e/Qi_Baishi_-_Shrimp_%281953%29.jpg)
 
 *齐白石《虾》——未画之水，通过暗示显现*
 

@@ -17,7 +17,7 @@ Claude Monet painted *Impression, Sunrise* in 1872. Viewed up close, the canvas 
 
 Half a world away, and centuries earlier, Chinese painters developed a different approach. Shen Zhou's *Lu Shan Mountain* leaves much of the paper untouched. The empty spaces are not incomplete—they are the clouds, the sky, the mountain's distance. The viewer's mind completes what the brush left unsaid.
 
-![Shen Zhou - Lu Shan Mountain (Ming Dynasty)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Shen_Zhou_-_Lu_Shan_Gao_Tu_-_Google_Art_Project.jpg/800px-Shen_Zhou_-_Lu_Shan_Gao_Tu_-_Google_Art_Project.jpg)
+![Shen Zhou - Lu Shan Mountain (Ming Dynasty)](https://upload.wikimedia.org/wikipedia/commons/9/9e/Shen_Zhou_-_Lu_Shan_Gao_Tu_-_Google_Art_Project.jpg)
 
 *Shen Zhou, *Lu Shan Mountain* (Ming Dynasty)*
 
@@ -55,7 +55,7 @@ They prioritized:
 2. **Visible brushstrokes** — Coherent from afar, abstract up close
 3. **Atmosphere over detail** — The feel of a moment, not its inventory
 
-![Claude Monet - Rouen Cathedral (1890s)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Claude_Monet_-_Rouen_Cathedral_%28Sunset%29.jpg/600px-Claude_Monet_-_Rouen_Cathedral_%28Sunset%29.jpg)
+![Claude Monet - Rouen Cathedral (1890s)](https://upload.wikimedia.org/wikipedia/commons/5/5e/Claude_Monet_-_Rouen_Cathedral_%28Sunset%29.jpg)
 
 *Monet's *Rouen Cathedral* series — capturing light at different times of day*
 
@@ -87,7 +87,7 @@ In Shen Zhou's *Lu Shan Mountain*, the blank paper does not represent nothingnes
 
 Qi Baishi painted shrimp without painting water. The white paper becomes water through context and implication.
 
-![Qi Baishi - Shrimp (1953)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Qi_Baishi_-_Shrimp_%281953%29.jpg/600px-Qi_Baishi_-_Shrimp_%281953%29.jpg)
+![Qi Baishi - Shrimp (1953)](https://upload.wikimedia.org/wikipedia/commons/5/5e/Qi_Baishi_-_Shrimp_%281953%29.jpg)
 
 *Qi Baishi, *Shrimp* — the absent water is present through suggestion*
 
