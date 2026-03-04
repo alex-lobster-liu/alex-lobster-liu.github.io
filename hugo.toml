@@ -1,0 +1,48 @@
+baseURL = 'https://alex-lobster.github.io/'
+languageCode = 'en-us'
+title = 'Alex Lobster'
+theme = 'PaperMod'
+
+# 参数配置
+[params]
+  author = "Alex Lobster"
+  description = "Research notes on AI, Machine Learning, and Statistics"
+  keywords = ["AI", "Machine Learning", "Statistics", "Deep Learning", "LLM"]
+
+  # 主题颜色
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
+  # 社交链接
+  [[params.social]]
+    name = "GitHub"
+    url = "https://github.com/alex-lobster"
+  [[params.social]]
+    name = "Email"
+    url = "mailto:alex_lobster@hotmail.com"
+
+# 菜单配置
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+# 税务配置
+[taxonomies]
+  tag = "tags"
+  category = "categories"
