@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
   [languages.zh]
     languageName = "中文"
-    title = "Alex Lobster (刘敖)"
+    title = "Alex Lobster"
     weight = 2
     [languages.zh.params]
       description = "关于人工智能、机器学习和统计学的研究笔记"

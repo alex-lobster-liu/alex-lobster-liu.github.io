@@ -6,7 +6,7 @@ title: "关于"
     <img src="/images/avatar.jpg" alt="Alex Lobster（刘敖）" style="width: 150px; height: 150px; border-radius: 50%;">
 </div>
 
-嗨，我是Alex Lobster（刘敖）！👋
+嗨，我是刘敖！👋
 
 我是一名AI研究员和工程师，热衷于让大语言模型变得更智能、更安全，更符合人类价值观。
 

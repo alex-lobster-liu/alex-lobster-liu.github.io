@@ -251,15 +251,3 @@ Perhaps this is the shared aim of art and science: **to capture the essence with
 In an age of information abundance, the RDP framework reminds us of something painters have long understood: what matters is not how much we say, but what is perceived.
 
 ---
-
-*Author's note: This article draws on the review paper "Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications" by Xueyan Niu et al. (*Entropy*, 2025).*
-
-**References:**
-1. Niu, X., et al. "Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications." *Entropy*, 2025, 27(4), 373.
-2. Monet, C. *Impression, Sunrise*. 1872.
-3. Shen Zhou. *Lu Shan Mountain*. Ming Dynasty.
-4. Qi Baishi. *Shrimp*. 1953.
-
----
-
-*Reading time: 15 minutes | Difficulty: ★★☆☆☆ | Category: Information Theory × Art History*

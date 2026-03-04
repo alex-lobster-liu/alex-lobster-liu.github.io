@@ -251,17 +251,3 @@ GAN、VAE和扩散模型建立在兼容RDP的原则之上：
 也许这就是艺术与科学的共同目标：**以经济的方式捕捉本质，以精确的方式传达感知。**
 
 在信息丰盈的时代，RDP框架提醒我们画家们早已明白的道理：重要的不是我们说了多少，而是被感知到了什么。
-
----
-
-*作者注：本文基于综述论文《Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications》（Xueyan Niu等，*Entropy*，2025）。*
-
-**参考资料：**
-1. Niu, X., et al. "Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications." *Entropy*, 2025, 27(4), 373.
-2. Monet, C. *Impression, Sunrise*. 1872.
-3. 沈周. *庐山高图*. 明代.
-4. 齐白石. *虾*. 1953.
-
----
-
-*阅读时间：15分钟 | 难度：★★☆☆☆ | 分类：信息论 × 艺术史*

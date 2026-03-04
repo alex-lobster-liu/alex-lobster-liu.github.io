@@ -110,16 +110,3 @@ The relationship between SFT and RL is complex, nuanced, and—most importantly�
 Understanding this coupling isn't just academic; it's essential for anyone serious about building better AI systems.
 
 ---
-
-**Want to learn more?**
-
-- Read the full paper: [arXiv:2601.07389](https://arxiv.org/abs/2601.07389)
-- Check out my Google Scholar: [Xueyan Niu](https://scholar.google.com/citations?user=kE-TDSYAAAAJ)
-- Discuss on [Twitter/X](https://twitter.com/search?q=LLM+alignment) with hashtag #AI
-
----
-
-*This is the first post on my new blog! More coming soon on AI, ML, and Statistics. Stay tuned!*
-
-— **Alex Lobster**
-*AI Researcher & Engineer*
