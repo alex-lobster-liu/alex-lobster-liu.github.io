@@ -108,7 +108,3 @@ The next time someone tells you "just add more RLHF after SFT," remember: **it's
 The relationship between SFT and RL is complex, nuanced, and—most importantly—**fundamentally coupled**.
 
 Understanding this coupling isn't just academic; it's essential for anyone serious about building better AI systems.
-
----
-
-*Reading time: 8 minutes | Difficulty: ★★★☆☆ | Category: AI Research*
