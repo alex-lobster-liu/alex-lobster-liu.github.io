@@ -3,7 +3,7 @@ title: "关于"
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-    <img src="/images/avatar.jpg" alt="Alex Lobster (刘敖)" style="width: 150px; height: 150px; border-radius: 50%;">
+    <img src="/images/avatar.jpg" alt="Alex Lobster（刘敖）" style="width: 150px; height: 150px; border-radius: 50%;">
 </div>
 
 嗨，我是Alex Lobster（刘敖）！👋
@@ -23,5 +23,3 @@ title: "关于"
 - **邮箱：** alex_lobster@hotmail.com
 
 感谢访问！如果你想讨论AI、ML或其他任何事情，请随时联系。
-
-— **Alex（刘敖）** 🦞

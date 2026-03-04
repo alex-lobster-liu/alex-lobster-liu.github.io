@@ -23,5 +23,3 @@ My goal is to bridge that gap.
 - **Email:** alex_lobster@hotmail.com
 
 Thanks for stopping by! Feel free to reach out if you want to chat about AI, ML, or anything else.
-
-— **Alex Lobster**
