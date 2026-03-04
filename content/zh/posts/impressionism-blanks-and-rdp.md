@@ -253,3 +253,12 @@ GAN、VAE和扩散模型建立在兼容RDP的原则之上：
 在信息丰盈的时代，RDP框架提醒我们画家们早已明白的道理：重要的不是我们说了多少，而是被感知到了什么。
 
 无论是欣赏一幅画，还是设计一个通信系统，这个智慧都值得铭记。
+
+---
+
+## 参考资料
+
+1. Niu, X., et al. "Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications." *Entropy*, 2025, 27(4), 373.
+2. Monet, C. *Impression, Sunrise*. 1872.
+3. 沈周. *庐山高图*. 明代.
+4. 齐白石. *虾*. 1953.
