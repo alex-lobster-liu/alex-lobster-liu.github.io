@@ -31,6 +31,9 @@ defaultContentLanguageInSubdir = false
   description = "Research notes on AI, Machine Learning, and Statistics"
   keywords = ["AI", "Machine Learning", "Statistics", "Deep Learning", "LLM"]
 
+  # Profile
+  avatar = "avatar.jpg"
+
   # 主题颜色
   defaultTheme = "auto"
   ShowReadingTime = true
