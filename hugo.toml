@@ -34,10 +34,13 @@ defaultContentLanguageInSubdir = false
   # Profile
   avatar = "avatar.jpg"
 
+  # 社交分享按钮
+  ShowShareButtons = true
+  ShareButtons = ["linkedin", "twitter", "email", "link"]
+
   # 主题颜色
   defaultTheme = "auto"
   ShowReadingTime = true
-  ShowShareButtons = true
   ShowPostNavLinks = true
 
   # 社交链接
