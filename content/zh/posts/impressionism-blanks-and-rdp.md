@@ -15,7 +15,7 @@ author: "Alex Lobster"
 
 1872年，克劳德·莫奈（Claude Monet）画下了《日出·印象》。近看，这幅画只是橙色和蓝色的粗粝色块。后退几步，勒阿弗尔的港口浮现出来——雾气、水面、黎明的第一缕光。
 
-![Claude Monet - Impression, Sunrise (1872)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claude_Monet_-_Impression%2C_sunrise.jpg/800px-Claude_Monet_-_Impression%2C_sunrise.jpg)
+![Claude Monet - Impression, Sunrise (1872)](/images/art/monet_sunrise.jpg)
 
 *克劳德·莫奈《日出·印象》（1872）*
 
