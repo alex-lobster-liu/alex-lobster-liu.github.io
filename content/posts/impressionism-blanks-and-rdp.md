@@ -134,7 +134,9 @@ The Rate-Distortion-Perception framework adds a third dimension:
 - **Distortion:** Conventional error metrics (e.g., MSE)
 - **Perception:** Similarity between the distributions of input and reconstruction
 
-*(Note: The RDP trade-off diagram illustrates the balance among these three dimensions. See the original paper for details.)*
+![RDP Trade-off](https://www.mdpi.com/entropy/entropy-27-00373/article_deploy/html/images/entropy-27-00373-g001.png)
+
+*Rate-Distortion-Perception trade-off (source: *Entropy* journal)*
 
 ### Key Insights
 
