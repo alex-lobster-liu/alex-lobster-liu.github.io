@@ -138,9 +138,7 @@ Rate-Distortion-Perception框架增加了第三个维度：
 - **Distortion:** 传统误差度量（如MSE）
 - **Perception:** 输入与重建分布的相似性
 
-![RDP Trade-off](https://www.mdpi.com/entropy/entropy-27-00373/article_deploy/html/images/entropy-27-00373-g001.png)
-
-*Rate-Distortion-Perception权衡（来源：*Entropy*期刊）*
+*（注：RDP权衡图示展示了三者之间的平衡关系。详见论文原文。）*
 
 ### 核心发现
 
