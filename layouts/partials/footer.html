@@ -151,4 +151,5 @@
 
 {{- if (and (eq .Kind "page") (ne .Layout "archives") (ne .Layout "search")) }}
 <script src="{{ "js/wechat-share.js" | absURL }}"></script>
+<script src="{{ "js/fix-home-link.js" | absURL }}"></script>
 {{- end }}
