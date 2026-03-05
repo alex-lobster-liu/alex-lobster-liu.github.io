@@ -99,3 +99,7 @@ disableLanguages = ['zh']
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+# 允许Markdown中的HTML
+[markup.goldmark.renderer]
+  unsafe = true
