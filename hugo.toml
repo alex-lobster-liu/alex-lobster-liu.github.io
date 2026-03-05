@@ -46,6 +46,7 @@ disableLanguages = []
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  displayFullLangName = true
 
   # 社交链接
   [[params.social]]
