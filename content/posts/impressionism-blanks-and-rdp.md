@@ -79,6 +79,16 @@ The Qing-dynasty painter Shi Shuangguang wrote in *Hua Quan* (*Painting Tray*): 
 
 In Ni Zan's *The Rongxi Studio*, the blank paper does not represent nothingness. It represents water, mist, the quietude of the scene. The viewer, guided by the painted elements, mentally fills the void. The pavilion feels more isolated because much of the paper remains untouched.
 
+### The Three Distances (San Yuan)
+
+Chinese landscape painting developed a sophisticated spatial theory called the "Three Distances" (*san yuan*), articulated by the Northern Song theorist Guo Xi:
+
+- **High Distance** (*gaoyuan*): Viewing from below looking up—conveying majesty and towering height
+- **Deep Distance** (*shenyuan*): Viewing from front peeking behind—creating layered depth and complexity
+- **Level Distance** (*pingyuan*): Viewing from near gazing far—expressing vast, tranquil expanses
+
+Ni Zan's work exemplifies *pingyuan*, the "level distance" approach. His compositions typically feature sparse foreground elements—often a few trees or a simple pavilion—with vast empty spaces receding into the distance. The horizon line rests near the middle of the painting, creating an effect of peaceful infinity. This technique, perfected in the Yuan Dynasty, uses minimal brushwork to maximum atmospheric effect, inviting the viewer's mind to complete the scene.
+
 ### Suggestion Over Statement
 
 This is an economical form of representation. The artist provides a scaffold; the viewer's imagination constructs the rest.
