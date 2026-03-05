@@ -184,8 +184,6 @@ Translate the Chinese approach:
 - **Viewer's imagination** → Shared context (common randomness)
 - **Coherent scene** → Perceptual success
 
-Qi Baishi's unpainted water functions like a latent variable in a generative model: **a missing piece that the decoder (viewer) fills in based on prior knowledge.**
-
 ### Parallel Evolution
 
 | From | To |
