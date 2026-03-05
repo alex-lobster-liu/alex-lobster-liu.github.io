@@ -4,10 +4,8 @@
 
 This directory should contain the following artwork images:
 
-1. **monet_sunrise.jpg** - Claude Monet, *Impression, Sunrise* (1872)
-2. **shen_zhou.jpg** - Shen Zhou, *Lu Shan Mountain* (Ming Dynasty)
-3. **monet_rouen.jpg** - Claude Monet, *Rouen Cathedral* series (1890s)
-4. **qi_baishi.jpg** - Qi Baishi, *Shrimp* (1953)
+1. **monet_sunrise.jpg** - Claude Monet, *Impression, Sunrise* (1872) ✅ 已保存
+2. **shen_zhou.jpg** - Shen Zhou, *Lu Shan Mountain* (Ming Dynasty) ⏳ 待替换（当前是占位符）
 
 ## How to Download
 
