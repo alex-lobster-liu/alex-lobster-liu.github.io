@@ -41,7 +41,7 @@ disableLanguages = []
   customCSS = ["css/custom.css"]
 
   # 主题颜色
-  defaultTheme = "auto"
+  defaultTheme = "light"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
