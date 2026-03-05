@@ -19,11 +19,11 @@ author: "Alex Lobster"
 
 *克劳德·莫奈《日出·印象》（1872）*
 
-在世界的另一端，几个世纪之前，中国画家发展出了一种不同的方法。沈周的《庐山高图》留下了大片空白。这些空白不是未完成——它们是云雾，是天空，是山的高远。观者的心绪会自动补足笔触未及之处。
+在世界的另一端，几个世纪之前，中国画家发展出了一种不同的方法。倪瓒的《容膝斋图》留下了大片空白。这些空白不是未完成——它们是水面，是虚空，是斋室的清寂。观者的心绪会自动补足笔触未及之处。
 
-![Shen Zhou - Lu Shan Mountain (Ming Dynasty)](https://upload.wikimedia.org/wikipedia/commons/9/9e/Shen_Zhou_-_Lu_Shan_Gao_Tu_-_Google_Art_Project.jpg）
+![Ni Zan - The Rongxi Studio (Yuan Dynasty)](/images/art/ni_zan_rongxi.jpg)
 
-*沈周《庐山高图》（明代）*
+*倪瓒《容膝斋图》（元代）*
 
 这两种艺术传统——19世纪的法国印象派和古典中国画的留白——看似无关。但它们抵达了相似的理解：**整体重于局部。**
 
@@ -81,7 +81,7 @@ author: "Alex Lobster"
 
 ### 氛围的功能
 
-在沈周的《庐山高图》中，白纸不代表虚无。它代表云雾、天空、场景的辽远。观者在已画元素的引导下，在心中填补空白。山之所以显得高，正是因为大部分未曾画出。
+在倪瓒的《容膝斋图》中，白纸不代表虚无。它代表水面、虚空、场景的清寂。观者在已画元素的引导下，在心中填补空白。斋室之所以显得孤寂，正是因为大部分未曾画出。
 
 ### 暗示胜于陈述
 
@@ -231,7 +231,7 @@ GAN、VAE和扩散模型建立在兼容RDP的原则之上：
 
 ## 结语：表达的经济性
 
-莫奈的港口黎明。沈周的山中云雾。信息论中的RDP框架。
+莫奈的港口黎明。倪瓒的斋室清寂。信息论中的RDP框架。
 
 在不同世纪、不同文化、不同领域，同样的洞见反复出现：**少即是多，如果它传达了正确的印象。**
 
@@ -249,4 +249,4 @@ GAN、VAE和扩散模型建立在兼容RDP的原则之上：
 
 1. Niu, X., et al. "[Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications](https://www.mdpi.com/1099-4300/27/4/373)". *Entropy*, 2025, 27(4), 373.
 2. Monet, C. *Impression, Sunrise*. 1872.
-3. 沈周. *庐山高图*. 明代.
+3. 倪瓒. *容膝斋图*. 元代.

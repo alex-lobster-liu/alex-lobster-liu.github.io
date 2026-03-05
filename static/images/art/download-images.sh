@@ -4,8 +4,8 @@
 
 BASE_URL="https://upload.wikimedia.org/wikipedia/commons"
 
-# 下载沈周《庐山高图》
-curl -L -o "shen_zhou.jpg" \
-  "$BASE_URL/thumb/9/9e/Shen_Zhou_-_Lu_Shan_Gao_Tu_-_Google_Art_Project.jpg/800px-Shen_Zhou_-_Lu_Shan_Gao_Tu_-_Google_Art_Project.jpg"
+# 下载倪瓒《容膝斋图》
+curl -L -o "ni_zan_rongxi.jpg" \
+  "$BASE_URL/thumb/4/4e/Ni_Zan_-_The_Rongxi_Studio.jpg/800px-Ni_Zan_-_The_Rongxi_Studio.jpg"
 
 echo "下载完成！"

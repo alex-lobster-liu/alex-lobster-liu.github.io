@@ -5,7 +5,7 @@
 This directory should contain the following artwork images:
 
 1. **monet_sunrise.jpg** - Claude Monet, *Impression, Sunrise* (1872) ✅ 已保存
-2. **shen_zhou.jpg** - Shen Zhou, *Lu Shan Mountain* (Ming Dynasty) ⏳ 待替换（当前是占位符）
+2. **ni_zan_rongxi.jpg** - Ni Zan, *The Rongxi Studio* (Yuan Dynasty) ⏳ 待替换（当前是占位符）
 
 ## How to Download
 

@@ -15,11 +15,11 @@ Claude Monet painted *Impression, Sunrise* in 1872. Viewed up close, the canvas 
 
 *Claude Monet, *Impression, Sunrise* (1872)*
 
-Half a world away, and centuries earlier, Chinese painters developed a different approach. Shen Zhou's *Lu Shan Mountain* leaves much of the paper untouched. The empty spaces are not incomplete—they are the clouds, the sky, the mountain's distance. The viewer's mind completes what the brush left unsaid.
+Half a world away, and centuries earlier, Chinese painters developed a different approach. Ni Zan's *The Rongxi Studio* leaves much of the paper untouched. The empty spaces are not incomplete—they are the trees, the water, the pavilion's stillness. The viewer's mind completes what the brush left unsaid.
 
-![Shen Zhou - Lu Shan Mountain (Ming Dynasty)](/images/art/shen_zhou.jpg)
+![Ni Zan - The Rongxi Studio (Yuan Dynasty)](/images/art/ni_zan_rongxi.jpg)
 
-*Shen Zhou, *Lu Shan Mountain* (Ming Dynasty)*
+*Ni Zan, *The Rongxi Studio* (Yuan Dynasty)*
 
 These two artistic traditions—19th-century French Impressionism and classical Chinese negative space—seem unrelated. Yet both arrived at a similar understanding: **the whole matters more than the parts.**
 
@@ -77,7 +77,7 @@ The Qing-dynasty painter Shi Shuangguang wrote in *Hua Quan* (*Painting Tray*): 
 
 ### Atmospheric Function
 
-In Shen Zhou's *Lu Shan Mountain*, the blank paper does not represent nothingness. It represents clouds, sky, the vastness of the scene. The viewer, guided by the painted elements, mentally fills the void. The mountain feels higher because much of it remains unpainted.
+In Ni Zan's *The Rongxi Studio*, the blank paper does not represent nothingness. It represents water, mist, the quietude of the scene. The viewer, guided by the painted elements, mentally fills the void. The pavilion feels more isolated because much of the paper remains untouched.
 
 ### Suggestion Over Statement
 
@@ -225,7 +225,7 @@ The convergence is not accidental. These models are, in a sense, computational i
 
 ## Conclusion: The Economy of Expression
 
-Monet's harbor at dawn. Shen Zhou's mountain in mist. The RDP framework in information theory.
+Monet's harbor at dawn. Ni Zan's studio in silence. The RDP framework in information theory.
 
 Across different centuries, different cultures, different domains, the same insight recurs: **less can be more, if it conveys the right impression.**
 
@@ -243,4 +243,4 @@ Whether appreciating a painting or designing a communication system, this wisdom
 
 1. Niu, X., et al. "[Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications](https://www.mdpi.com/1099-4300/27/4/373)". *Entropy*, 2025, 27(4), 373.
 2. Monet, C. *Impression, Sunrise*. 1872.
-3. Shen Zhou. *Lu Shan Mountain*. Ming Dynasty.
+3. Ni Zan. *The Rongxi Studio*. Yuan Dynasty.
