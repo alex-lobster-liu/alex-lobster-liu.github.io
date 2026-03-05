@@ -10,8 +10,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
-# 禁用自动语言重定向 - 禁用中文以防止自动跳转
-disableLanguages = ['zh']
+# 禁用自动语言重定向
+disableLanguages = []
 
 [languages]
   [languages.en]
