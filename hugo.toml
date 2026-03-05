@@ -10,6 +10,9 @@ ignoreLogs = ['warning-goldmark-raw-html']
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
+# 禁用自动语言重定向
+disableLanguages = []
+
 [languages]
   [languages.en]
     languageName = "English"
@@ -57,6 +60,8 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "/"
   weight = 1
+  [languages.en.menu.main.params]
+    rel = "home"
 
 [[languages.en.menu.main]]
   identifier = "posts"
@@ -75,6 +80,8 @@ defaultContentLanguageInSubdir = false
   name = "首页"
   url = "/zh/"
   weight = 1
+  [languages.zh.menu.main.params]
+    rel = "home"
 
 [[languages.zh.menu.main]]
   identifier = "posts"
