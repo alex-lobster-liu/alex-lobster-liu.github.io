@@ -55,10 +55,6 @@ They prioritized:
 2. **Visible brushstrokes** — Coherent from afar, abstract up close
 3. **Atmosphere over detail** — The feel of a moment, not its inventory
 
-![Claude Monet - Rouen Cathedral (1890s)](/images/art/monet_rouen.jpg)
-
-*Monet's *Rouen Cathedral* series — capturing light at different times of day*
-
 ### Precision Versus Perception
 
 Stand by a real harbor at dawn. You do not register every ripple. You experience the orange glow, the gray-blue mist, the sense of morning.
@@ -84,12 +80,6 @@ The Qing-dynasty painter Shi Shuangguang wrote in *Hua Quan* (*Painting Tray*): 
 In Shen Zhou's *Lu Shan Mountain*, the blank paper does not represent nothingness. It represents clouds, sky, the vastness of the scene. The viewer, guided by the painted elements, mentally fills the void. The mountain feels higher because much of it remains unpainted.
 
 ### Suggestion Over Statement
-
-Qi Baishi painted shrimp without painting water. The white paper becomes water through context and implication.
-
-![Qi Baishi - Shrimp (1953)](/images/art/qi_baishi.jpg)
-
-*Qi Baishi, *Shrimp* — the absent water is present through suggestion*
 
 This is an economical form of representation. The artist provides a scaffold; the viewer's imagination constructs the rest.
 
@@ -254,4 +244,3 @@ Whether appreciating a painting or designing a communication system, this wisdom
 1. Niu, X., et al. "[Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications](https://www.mdpi.com/1099-4300/27/4/373)". *Entropy*, 2025, 27(4), 373.
 2. Monet, C. *Impression, Sunrise*. 1872.
 3. Shen Zhou. *Lu Shan Mountain*. Ming Dynasty.
-4. Qi Baishi. *Shrimp*. 1953.

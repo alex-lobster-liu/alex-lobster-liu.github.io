@@ -59,10 +59,6 @@ author: "Alex Lobster"
 2. **可见的笔触** — 远看连贯，近看抽象
 3. **氛围重于细节** — 捕捉瞬间，而非清单
 
-![Claude Monet - Rouen Cathedral (1890s)](https://upload.wikimedia.org/wikipedia/commons/5/5e/Claude_Monet_-_Rouen_Cathedral_%28Sunset%29.jpg)
-
-*莫奈《鲁昂大教堂》系列——捕捉不同时间的光线*
-
 ### 精确与感知
 
 站在真实的港口黎明时分。你不会注意到每一道波纹。你体验到的是橙色的光晕，灰蓝色的雾气，清晨的感觉。
@@ -90,10 +86,6 @@ author: "Alex Lobster"
 ### 暗示胜于陈述
 
 齐白石画虾，从不画水。白纸通过语境和暗示变成了水。
-
-![Qi Baishi - Shrimp (1953)](https://upload.wikimedia.org/wikipedia/commons/5/5e/Qi_Baishi_-_Shrimp_%281953%29.jpg)
-
-*齐白石《虾》——未画之水，通过暗示显现*
 
 这是一种经济的表现形式。画家提供框架；观者的想象完成其余。
 
@@ -255,7 +247,6 @@ GAN、VAE和扩散模型建立在兼容RDP的原则之上：
 
 ## 参考资料
 
-1. Niu, X., et al. "Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications." *Entropy*, 2025, 27(4), 373.
+1. Niu, X., et al. "[Rate–Distortion–Perception Trade-Off in Information Theory, Generative Models, and Intelligent Communications](https://www.mdpi.com/1099-4300/27/4/373)". *Entropy*, 2025, 27(4), 373.
 2. Monet, C. *Impression, Sunrise*. 1872.
 3. 沈周. *庐山高图*. 明代.
-4. 齐白石. *虾*. 1953.
