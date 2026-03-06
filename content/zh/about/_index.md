@@ -20,6 +20,5 @@ title: "关于"
 
 ## 联系方式
 
-- **邮箱：** alex_lobster@hotmail.com
 
 感谢访问！如果你想讨论AI、ML或其他任何事情，请随时联系。
