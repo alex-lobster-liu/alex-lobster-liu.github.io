@@ -1,0 +1,67 @@
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="500" fill="white"/>
+
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" font-size="24" font-weight="bold" fill="black">Context Management Comparison</text>
+
+  <!-- Before memoryFlush -->
+  <text x="150" y="70" text-anchor="middle" font-size="16" fill="#d32f2f" font-weight="bold">Before memoryFlush</text>
+  <rect x="20" y="90" width="260" height="50" fill="#ffcdd2" stroke="#d32f2f" stroke-width="2"/>
+  <text x="150" y="120" text-anchor="middle" font-size="13" fill="#d32f2f">[M1][M2]...[M100]</text>
+
+  <!-- With memoryFlush -->
+  <text x="450" y="70" text-anchor="middle" font-size="16" fill="#f57c00" font-weight="bold">With memoryFlush</text>
+  <rect x="320" y="90" width="260" height="50" fill="#ffe0b2" stroke="#f57c00" stroke-width="2"/>
+  <text x="450" y="120" text-anchor="middle" font-size="13" fill="#f57c00">[Summary][M95]...[M100]</text>
+
+  <!-- With Pluggable Engine -->
+  <text x="750" y="70" text-anchor="middle" font-size="16" fill="#388e3c" font-weight="bold">Pluggable Engine</text>
+  <rect x="620" y="90" width="260" height="50" fill="#c8e6c9" stroke="#388e3c" stroke-width="2"/>
+  <text x="750" y="120" text-anchor="middle" font-size="13" fill="#388e3c">[C1][M3][M4]...[M100]</text>
+
+  <!-- Section title -->
+  <text x="450" y="180" text-anchor="middle" font-size="18" fill="#388e3c" font-weight="bold">Intelligent Context Management</text>
+
+  <!-- Example messages -->
+  <g transform="translate(0, 200)">
+    <!-- Message 1: Compress -->
+    <rect x="100" y="0" width="700" height="35" fill="#ffe0b2" stroke="#ff9800" stroke-width="2"/>
+    <text x="500" y="22" text-anchor="middle" font-size="12" fill="#ff9800">M1: Greeting message</text>
+    <text x="820" y="22" text-anchor="middle" font-size="11" fill="#ff9800" font-weight="bold">compress</text>
+
+    <!-- Message 2: Compress -->
+    <rect x="100" y="40" width="700" height="35" fill="#ffe0b2" stroke="#ff9800" stroke-width="2"/>
+    <text x="500" y="62" text-anchor="middle" font-size="12" fill="#ff9800">M2: Weather check</text>
+    <text x="820" y="62" text-anchor="middle" font-size="11" fill="#ff9800" font-weight="bold">compress</text>
+
+    <!-- Message 3: Preserve -->
+    <rect x="100" y="80" width="700" height="35" fill="#c8e6c9" stroke="#388e3c" stroke-width="2"/>
+    <text x="500" y="102" text-anchor="middle" font-size="12" fill="#388e3c">M3: Important task discussion</text>
+    <text x="820" y="102" text-anchor="middle" font-size="11" fill="#388e3c" font-weight="bold">preserve</text>
+
+    <!-- Message 4: Preserve -->
+    <rect x="100" y="120" width="700" height="35" fill="#c8e6c9" stroke="#388e3c" stroke-width="2"/>
+    <text x="500" y="142" text-anchor="middle" font-size="12" fill="#388e3c">M4: Critical decision made</text>
+    <text x="820" y="142" text-anchor="middle" font-size="11" fill="#388e3c" font-weight="bold">preserve</text>
+
+    <!-- Message 5: Preserve -->
+    <rect x="100" y="160" width="700" height="35" fill="#c8e6c9" stroke="#388e3c" stroke-width="2"/>
+    <text x="500" y="182" text-anchor="middle" font-size="12" fill="#388e3c">M5: Follow-up on task</text>
+    <text x="820" y="182" text-anchor="middle" font-size="11" fill="#388e3c" font-weight="bold">preserve</text>
+
+    <!-- Message 6: Compress -->
+    <rect x="100" y="200" width="700" height="35" fill="#ffe0b2" stroke="#ff9800" stroke-width="2"/>
+    <text x="500" y="222" text-anchor="middle" font-size="12" fill="#ff9800">M6: Debug output logs</text>
+    <text x="820" y="222" text-anchor="middle" font-size="11" fill="#ff9800" font-weight="bold">compress</text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(250, 460)">
+    <rect x="0" y="0" width="20" height="20" fill="#c8e6c9" stroke="#388e3c" stroke-width="2"/>
+    <text x="30" y="15" font-size="12" fill="black">Preserve (important)</text>
+
+    <rect x="200" y="0" width="20" height="20" fill="#ffe0b2" stroke="#ff9800" stroke-width="2"/>
+    <text x="230" y="15" font-size="12" fill="black">Compress (redundant)</text>
+  </g>
+</svg>

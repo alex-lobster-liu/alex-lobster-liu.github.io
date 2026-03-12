@@ -1,0 +1,107 @@
+baseURL = 'https://alex-lobster-liu.github.io/'
+languageCode = 'en-us'
+title = 'Alex Lobster'
+theme = 'PaperMod'
+
+# 忽略警告
+ignoreLogs = ['warning-goldmark-raw-html']
+
+# 多语言配置
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+# 禁用自动语言重定向
+disableLanguages = []
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Alex Lobster"
+    weight = 1
+    [languages.en.params]
+      description = "Research notes on AI, Machine Learning, and Statistics"
+
+  [languages.zh]
+    languageName = "中文"
+    title = "Alex Lobster"
+    weight = 2
+    [languages.zh.params]
+      description = "关于人工智能、机器学习和统计学的研究笔记"
+      homeInfoParams = { Title = "欢迎来到我的博客！👋", Content = "这里是 Alex Lobster（刘敖）的个人博客，关于人工智能、机器学习和统计学。查看 [文章页面](/zh/posts/) 了解最新内容！" }
+
+# 参数配置
+[params]
+  author = "Alex Lobster"
+  description = "Research notes on AI, Machine Learning, and Statistics"
+  keywords = ["AI", "Machine Learning", "Statistics", "Deep Learning", "LLM"]
+
+  # Profile
+  avatar = "avatar.jpg"
+
+  # Custom CSS
+  customCSS = ["css/custom.css"]
+
+  # 主题颜色
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  displayFullLangName = true
+
+  # 社交链接
+  [[params.social]]
+    name = "GitHub"
+    url = "https://github.com/alex-lobster"
+  [[params.social]]
+    name = "Email"
+    url = "mailto:alex_lobster@hotmail.com"
+
+# 菜单配置
+[[languages.en.menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+  [languages.en.menu.main.params]
+    rel = "home"
+
+[[languages.en.menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[languages.en.menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+[[languages.zh.menu.main]]
+  identifier = "home"
+  name = "首页"
+  url = "/zh/"
+  weight = 1
+  [languages.zh.menu.main.params]
+    rel = "home"
+
+[[languages.zh.menu.main]]
+  identifier = "posts"
+  name = "文章"
+  url = "/zh/posts/"
+  weight = 2
+
+[[languages.zh.menu.main]]
+  identifier = "about"
+  name = "关于"
+  url = "/zh/about/"
+  weight = 3
+
+# 税务配置
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# 允许Markdown中的HTML
+[markup.goldmark.renderer]
+  unsafe = true

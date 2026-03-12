@@ -1,0 +1,58 @@
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{- if .Params.cover.image -}}
+{{- if (ne .Params.cover.relative true) }}
+<meta property="og:image" content="{{ .Params.cover.image | absURL }}" />
+{{- else}}
+<meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}" />
+{{- end}}
+{{- else }}
+
+{{- $images := partial "templates/_funcs/get-page-images" . -}}
+{{- range first 6 $images }}
+<meta property="og:image" content="{{ .Permalink }}" />
+{{ end -}}
+{{- end }}
+
+{{- if .IsPage }}
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{- if .PublishDate }}
+<meta property="article:published_time" {{ .PublishDate.Format $iso8601 | safeHTMLAttr }} />
+{{- end }}
+{{- if .Lastmod }}
+<meta property="article:modified_time" {{ .Lastmod.Format $iso8601 | safeHTMLAttr }} />
+{{- end }}
+{{- else }}
+{{- if site.Params.title }}
+<meta property="og:site_name" content="{{ site.Params.title }}" />
+{{- end }}
+{{- end }}
+{{- with .Params.audio }}
+<meta property="og:audio" content="{{ . | absURL }}" />
+{{- end }}
+{{- with .Params.locale }}
+<meta property="og:locale" content="{{ . }}" />
+{{- end }}
+{{- with site.Params.title }}
+<meta property="og:locale:alternate" content="{{ . }}" />
+{{- end }}
+{{- range .Translations }}
+<meta property="og:locale:alternate" content="{{ .Language.Lang }}" />
+{{- end }}
+{{- if .IsPage }}
+{{- range .GetTerms "tags" | first 6 }}
+<meta property="article:tag" content="{{ .Title }}" />
+{{- end }}
+{{- end }}
+{{- with site.Params.schema.publisherTwitter }}
+<meta property="twitter:site" content="@{{ . }}" />
+{{- end }}
+{{- with .Params.cover.image -}}
+{{- if (ne .Params.cover.relative true) }}
+<meta property="twitter:image" content="{{ .Params.cover.image | absURL }}" />
+{{- else -}}
+<meta property="twitter:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}" />
+{{- end}}
+{{- end -}}
