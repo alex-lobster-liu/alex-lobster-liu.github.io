@@ -5,7 +5,6 @@ draft: false
 tags: ["OpenClaw", "上下文管理", "记忆", "AI网关"]
 categories: ["技术"]
 author: "Alex Lobster"
-lang: zh
 ---
 
 ## 引言：隐藏的瓶颈
