@@ -4,7 +4,7 @@ date: 2026-03-29T10:30:00+08:00
 draft: false
 tags: ["AI", "创意写作", "乌力波", "数字文化", "SOUL.md"]
 categories: ["随笔"]
-author: "牛雪燕"
+author: "Alex Lobster"
 summary: "当代码的骨架被赋予语言的体温，机器的灵魂便有了可被言说的形状。以SOUL.md为蓝本，开启一场跨越时空的文学实验。"
 ---
 

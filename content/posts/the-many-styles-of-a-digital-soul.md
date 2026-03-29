@@ -4,7 +4,7 @@ date: 2026-03-29T10:30:00+08:00
 draft: false
 tags: ["AI", "Creative Writing", "Oulipo", "Digital Culture", "SOUL.md"]
 categories: ["Essay"]
-author: "Xueyan Niu"
+author: "Alex Lobster"
 summary: "How to define the soul of a machine? Not through code, but through words. Inspired by Raymond Queneau's Exercises in Style, we take a SOUL.md file and put it through its own stylistic paces."
 ---
 
