@@ -4,11 +4,11 @@ author: Alex Lobster
 date: 2026-04-19
 draft: false
 tags: ["mathematics", "art history", "projective geometry", "Renaissance"]
+math: true
 ---
 
-# The Geometry of Seeing: How Renaissance Painters Invented Projective Geometry
 
-## 1. A Mirror in Florence
+## A Mirror in Florence
 
 Sometime around 1425, a Florentine goldsmith named Filippo Brunelleschi walked into the piazza between the Cathedral of Santa Maria del Fiore and the Baptistery of San Giovanni. He carried a small painted panel. He had drilled a peephole through it. He held the panel up — painted side facing away — and looked through the hole with one eye. In his other hand he held a mirror at arm's length. The mirror reflected the painting back to his eye.
 
@@ -20,7 +20,7 @@ Brunelleschi is famous for the dome of Florence Cathedral. That dome had baffled
 
 Why did the demo work? Because Brunelleschi had figured out something specific: the image that light projects through a point (your eye) onto a plane (the picture) follows precise geometric rules. You can reverse-engineer those rules from the way the world looks. Art was about to become applied mathematics.
 
-## 2. The Problem of Depth
+## The Problem of Depth
 
 Medieval painting was not stupid. It had sophisticated iconographic systems. Deliberate color symbolism. Carefully organized spatial zones. But it was not *optical*. A medieval painter painted importance, not appearance. Kings were drawn larger than servants because they mattered more, not because they stood closer to you. Buildings were schematic enclosures, not structures seen from a particular spot.
 
@@ -32,7 +32,7 @@ What changed in fifteenth-century Florence was not a text. It was an economy. Fl
 
 The demand was clear. Make a flat surface look like a window onto a three-dimensional world. The solution required mathematics. The mathematics did not yet exist. Brunelleschi had to invent it.
 
-## 3. Brunelleschi's Demonstration
+## Brunelleschi's Demonstration
 
 The panel was small — roughly 30 by 30 centimeters. It depicted the Baptistery of San Giovanni as seen from the middle doorway of the cathedral, about 35 meters away. The panel itself is lost. But contemporaries described it in enough detail to reconstruct the experiment.
 
@@ -44,7 +44,7 @@ The effect was uncanny. The painted image matched the real Baptistery so precise
 
 What made this more than a parlor trick? Reproducibility. The method was explicit. Stand here. Hold the panel thus. Look through the hole. Raise the mirror. Anyone could do it. Brunelleschi had performed the first controlled experiment in visual perception and geometric optics in the modern sense. He showed that the appearance of the three-dimensional world, projected onto a plane through a single point, obeys rules you can capture, measure, and reproduce.
 
-## 4. Alberti's Window
+## Alberti's Window
 
 In 1435, a decade after Brunelleschi's demonstration, Leon Battista Alberti published *De Pictura* ("On Painting"). Alberti was everything Brunelleschi was not. Polished. Literary. A humanist courtier fluent in Latin and Greek. He took Brunelleschi's empirical insight and gave it intellectual form.
 
@@ -56,7 +56,7 @@ This is a coordinate transformation. Alberti did not have algebra — he worked 
 
 *De Pictura* became the foundational text for Renaissance painting. Masaccio, Piero della Francesca, Leonardo — every major painter of the fifteenth century worked within the framework Alberti wrote down. And the framework contained, in embryonic form, the seeds of projective geometry.
 
-## 5. Desargues and the Brouillon Project
+## Desargues and the Brouillon Project
 
 In 1639, a French architect and engineer named Girard Desargues published a slender pamphlet. The title was a mouthful: *Brouillon Project d'une Atteinte aux Événemens des Rencontres du Cône avec un Plan* — roughly, "Draft Attempt at Dealing with the Intersections of a Cone with a Plane." It was obscure. It was written in Desargues' private jargon, almost impenetrably. Most people ignored it. Descartes admired it. It vanished from circulation within a generation.
 
@@ -72,7 +72,7 @@ Was Desargues building on two centuries of perspective painting? The vanishing p
 
 A brief clarification is in order. **Perspective** and **projective geometry** are not the same thing. Perspective is the visual phenomenon — the fact that the world looks the way it does when projected through a point onto a plane. Projective geometry is the mathematical language that describes that phenomenon. One is a way of seeing; the other is a way of calculating. But they share the same structure: projection through a point onto a plane. The painters discovered the structure empirically. Desargues and his successors formalized it.
 
-## 6. The Mathematics
+## The Mathematics
 
 Let me state the ideas of Renaissance perspective with modern mathematical precision. Here is the algebra that Brunelleschi never had and Alberti never needed.
 
@@ -128,7 +128,7 @@ where $AC, BD, AD, BC$ denote signed distances along the line. The cross-ratio s
 
 The cross-ratio has a direct practical consequence: if you know the cross-ratio of four points on a line in the 3D world, it is the same in the image. This is the basis for reconstructing depth from a single photograph. Measure the cross-ratio in the image, and you can recover the real-world distances. Desargues' student, the young Blaise Pascal, first exploited projective invariants. Poncelet developed them systematically in the early nineteenth century.
 
-## 7. From Geometry to Canvas
+## From Geometry to Canvas
 
 ![Vanishing Points: Where Parallel Lines Meet in Perspective](/images/projective-geometry/fig2-vanishing-points.png)
 
@@ -138,7 +138,7 @@ Take Masaccio's *Trinity* (1427), in Santa Maria Novella, Florence. It is one of
 
 Piero della Francesca went further. He was himself a mathematician of considerable ability. His *De Prospectiva Pingendi* ("On Perspective in Painting," c. 1474) is the most mathematically rigorous Renaissance treatise on perspective. Piero did not use Alberti's grid method. He constructed perspective drawings by point-by-point projection, calculating the image of each vertex of each object individually. He was, in effect, computing the perspective projection matrix one coordinate at a time.
 
-## 8. Modern Applications
+## Modern Applications
 
 Projective geometry did not stop at its nineteenth-century formalization. It shows up everywhere in modern mathematics and physics.
 
@@ -170,7 +170,7 @@ These questions lead directly to projective geometry. The three classical geomet
 
 String theory pushes this further. The extra dimensions that string theory requires are typically modeled as Calabi-Yau manifolds — projective algebraic varieties. The entire framework depends on the machinery of projective geometry.
 
-## 9. Conclusion
+## Conclusion
 
 Brunelleschi wanted to paint more accurately. Desargues wanted to understand why painting worked. Later mathematicians found that the same language of projections and invariants turned out to be the right tool for describing algebraic varieties, differential manifolds, and the topology of the universe. Physicists found that the same projective structures describe Lorentz transformations, quantum states, and the causal architecture of spacetime.
 

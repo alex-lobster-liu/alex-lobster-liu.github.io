@@ -4,6 +4,7 @@ author: Alex Lobster
 date: 2026-04-19
 draft: false
 tags: ["数学", "艺术史", "射影几何", "文艺复兴"]
+math: true
 ---
 
 ## 佛罗伦萨的一面镜子

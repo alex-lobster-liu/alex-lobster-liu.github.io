@@ -105,3 +105,11 @@ disableLanguages = []
 # 允许Markdown中的HTML
 [markup.goldmark.renderer]
   unsafe = true
+
+# 数学公式支持
+[markup.goldmark.extensions.passthrough]
+  enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+  block = [["$$", "$$"]]
+  inline = [["$", "$"]]
